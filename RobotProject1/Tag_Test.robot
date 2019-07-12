@@ -20,7 +20,7 @@ Mythird Test
 
 
 Myfourth Test
-    Log  I am in third test
+    Log  I am in fourth test
     
 
 Myreg Test
